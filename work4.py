@@ -5,7 +5,6 @@
 # Four — 4
 
 num = {'One': 'Один', 'Two': 'Два', 'Three': 'Три', 'Four': 'Четыре'}
-
 new_file = []
 
 with open('work4.txt', 'r', encoding='utf-8') as file:
